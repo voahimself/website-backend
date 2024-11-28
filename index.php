@@ -288,4 +288,21 @@ function greetMe() {
 }
 
 greetMe();
+
+// 25/11/2024;
+
+// function
+
+function greetMe() {
+    echo "<br> good afternoon";
+}
+
+greetMe();
+
+function streetname ($sname) {
+    echo"$sname Asaba. "<br>"
+    echo "<br> good afternoon";
+}
+
+greetMe();
 ?>
